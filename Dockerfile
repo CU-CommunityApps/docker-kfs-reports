@@ -1,4 +1,4 @@
-FROM docker.cucloud.net/apache22
+FROM dtr.cucloud.net/cs/apache22
 
 ENV PATH /infra/oracle/instantclient_12_1/:$PATH
 ENV NLS_LANG AMERICAN_AMERICA.UTF8
